@@ -1,0 +1,1 @@
+tinkoff-internal-currencies
